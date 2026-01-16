@@ -57,18 +57,19 @@ Here are some of my best works so far:
 🔗 Repo:  
 https://github.com/bijoysahadev/Fresh-
 
----
+### 🔹 What I’m Building Next  
 
-### 🔹 **More Projects Coming Soon…**
-I am actively building:
-- A React portfolio  
-- A MERN mini-project  
-- A simple blog app  
-- A to-do application  
+As I dive deeper into the **MERN stack**, I’m expanding beyond the web into **mobile app development with React Native & Expo**. My upcoming work will focus on:
 
-Stay tuned 🚀
+- 🚀 Full-stack **MERN applications** with authentication, APIs, and databases  
+- 📱 **Cross-platform mobile apps** using **React Native Expo**  
+- 🎨 Clean, modern, and user-friendly UI/UX designs  
+- 🔄 Real-world features like CRUD, login systems, and state management  
 
----
+My goal is to evolve from a web developer into a **full-stack + mobile-ready JavaScript developer** who can build products across platforms.
+
+Stay tuned — this space is about to get exciting. ✨
+
 
 ## 📊 GitHub Stats  
 
