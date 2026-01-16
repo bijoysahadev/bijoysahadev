@@ -99,7 +99,7 @@ If you’re working on something cool — I’d love to contribute!
 If you want, you can add your real links here later. For now, you can replace these placeholders:
 
 - 📧 Email: bijoysahamernstackdev@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 💼 LinkedIn:  www.linkedin.com/bijoysahadev
 - 🐦 Twitter/X: https://twitter.com/yourhandle  
 
 *(Tell me your real links and I’ll update this README perfectly for you.)*
